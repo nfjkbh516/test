@@ -5,4 +5,8 @@ package com.jian.chen.apkupdate;
  */
 
 public class test {
+
+    public void test001(){
+
+    }
 }
